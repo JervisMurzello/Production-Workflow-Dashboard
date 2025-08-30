@@ -30,7 +30,7 @@ The project uses three CSV datasets (sample data included):
 ## 3. How to Run the Project
 
 # Step 1: Clone the repository
-```bash
+
 git clone https://github.com/JervisMurzello/Production-Workflow-Dashboard.git
 cd Production-Workflow-Dashboard
 
